@@ -12,5 +12,5 @@ body {
     border-radius: 3px;
 }
 .warntint {
-    background: rgba(1, 0, 0, 0.5);
+    background: linear-gradient(0deg, rgba(128,0,0,1) 0%, rgba(142,14,14,1) 50%, rgba(161,33,33,1) 51%, rgba(128,0,0,1) 100%);
 }
